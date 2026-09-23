@@ -1,5 +1,7 @@
 # Integrating gene regulation: TF–miRNA co-regulatory networks across TCGA
 
+![Workflow](workflow.png)
+
 Which transcription factors regulate miRNA transcription, which miRNAs repress
 transcription factors, and which pairs do both across
 TCGA cancer types and for pooled healthy tissue.
