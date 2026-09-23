@@ -1,0 +1,24 @@
+network	l2_edges_used	n_tf_to_mirna	n_tf_to_mirna_intragenic	n_mirna_to_tf	n_feedback	n_ffl_triads	n_samples	sample_type
+tumour_breast_invasive_carcinoma	172693	3732	3020	15944	81	40535	1068	Primary Tumor
+healthy_pooled	371383	8342	6774	15010	79	63061	654	Solid Tissue Normal
+tumour_uterine_corpus_endometrioid_carcinoma	190410	4051	3348	11616	41	15043	523	Primary Tumor
+tumour_head_neck_squamous_cell_carcinoma	193782	4098	3310	12184	44	20152	519	Primary Tumor
+tumour_brain_lower_grade_glioma	192002	4295	3483	11307	60	20624	510	Primary Tumor
+tumour_lung_adenocarcinoma	191529	4105	3365	14632	73	20432	508	Primary Tumor
+tumour_thyroid_carcinoma	195935	4101	3379	14742	83	32045	502	Primary Tumor
+tumour_kidney_clear_cell_carcinoma	203071	4146	3430	12818	43	20574	499	Primary Tumor
+tumour_prostate_adenocarcinoma	187531	3853	3124	10158	42	14327	491	Primary Tumor
+tumour_ovarian_serous_cystadenocarcinoma	209008	4336	3577	10227	57	13185	476	Primary Tumor
+tumour_lung_squamous_cell_carcinoma	200327	4165	3436	13791	46	16152	467	Primary Tumor
+tumour_stomach_adenocarcinoma	206517	4557	3696	12256	45	13249	433	Primary Tumor
+tumour_colon_adenocarcinoma	185707	3854	3170	10935	49	12518	421	Primary Tumor
+tumour_bladder_urothelial_carcinoma	200848	4258	3426	11326	55	14819	409	Primary Tumor
+tumour_liver_hepatocellular_carcinoma	201184	4316	3399	11199	44	19485	369	Primary Tumor
+tumour_cervical_endocervical_cancer	206224	4260	3373	12283	55	19045	306	Primary Tumor
+tumour_kidney_papillary_cell_carcinoma	206070	4263	3511	12044	57	18098	286	Primary Tumor
+tumour_sarcoma	215073	4826	3883	9429	51	18526	256	Primary Tumor
+tumour_esophageal_carcinoma	223660	4797	3957	9923	51	35155	182	Primary Tumor
+tumour_pheochromocytoma_paraganglioma	221138	4858	3969	10836	71	17807	178	Primary Tumor
+tumour_pancreatic_adenocarcinoma	221452	4899	3949	9607	41	16233	177	Primary Tumor
+tumour_rectum_adenocarcinoma	218702	4298	3559	8281	46	15532	153	Primary Tumor
+tumour_testicular_germ_cell_tumor	237587	5602	4477	14153	93	38491	149	Primary Tumor

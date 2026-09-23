@@ -1,0 +1,9 @@
+metric	old_project_pool	new_canonical_pool	note
+Cross-cohort feedback Jaccard (off-diag) median	0.0	0.0	reproduces near-zero
+Cross-cohort feedback Jaccard (off-diag) max	0.0526	0.0652	reproduces near-zero
+Cross-cohort feedback Jaccard (off-diag) mean	0.0061	0.007	reproduces near-zero
+Same-cohort L2-seed reproducibility (overall)	0.265	0.265	L2-only metric, unaffected by L1 candidate pool
+Same-cohort L2-seed reproducibility (top decile)	0.761	0.761	L2-only metric, unaffected
+Median feedback pairs per cohort	51.0	30.0	~2x smaller (smaller candidate pool)
+Median FFL triads per cohort	18526.0	11137.0	~2x smaller (smaller candidate pool)
+Median TF->miRNA intragenic fraction	0.812	0.812	unchanged (depends on L2+loci bridge, not L1 candidates)

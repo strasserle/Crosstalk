@@ -1,0 +1,13 @@
+# Python dependencies for the stages in coreg_pipeline/.
+# Lower bounds from a working environment, not the exact versions used for the
+# published runs (those were not recorded). environment.yml is the supported path.
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3      # elastic-net Layer 1 filter (s02)
+statsmodels>=0.14      # variance partition, FDR (s05)
+pyarrow>=14.0          # parquet I/O for the expression matrices
+requests>=2.31         # Xena / OmniPath / Ensembl fetches (s00, s01)
+arboreto>=0.1.6        # GRNBoost2 (s03); see caveat 5 about dask
+matplotlib>=3.8
+umap-learn>=0.5        # manifold panel in sX_make_figures.py

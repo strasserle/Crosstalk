@@ -1,0 +1,7 @@
+pattern_A	pattern_B	metric	observed	expected	fold_enrichment	odds_ratio	p_value	overlap	total	pct
+Bidirectional Edges	Shared Targets	node_overlap	27.0	6.914187227866473	3.905014300333237	5.851577563540753	1.4725083951152852e-10			
+Feed-Forward Loops	Shared Targets	node_overlap	1613.0	973.3973149492017	1.6570828532480357	30.672178518925833	0.0			
+Feed-Forward Loops	Bidirectional Edges	edge_pair_overlap					1.4e-16	39.0	45.0	86.66666666666667
+Dual Regulators	Shared Targets	node_overlap	4.0	2.90596274794388	1.3764801365159305	1.4377737447065941	0.527960846133562			
+Dual Regulators	Bidirectional Edges	node_overlap	1.0	0.12100870827285921	8.263868065967017	8.633928571428571	0.11428927625511608			
+Dual Regulators	Feed-Forward Loops	node_overlap	29.0	17.035921625544265	1.702285361334157	inf	2.7486448241643435e-07			
